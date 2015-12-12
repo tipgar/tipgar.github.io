@@ -5,7 +5,7 @@ excerpt: "Random text"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-Looking for help in your testing, coding or wanna share your ideas ? Tip Garlic now or mail to {% highlight html %}[vanphamvn@gmail.com](mailto:vanphamvn@gmail.com){% endhighlight %}
+Looking for help in your testing, coding or wanna share your ideas ? Tip Garlic now or mail to <strong>[vanphamvn@gmail.com](mailto:vanphamvn@gmail.com)</strong>
 
 ## Here you get:
 
