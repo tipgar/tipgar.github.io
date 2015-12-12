@@ -151,7 +151,7 @@ social:
 
 pages_list:
   #About: 'about'
-  Blog: 'blog'
+  Blog: 'post-list'
   #Timeline: 'timeline'
   Contact: 'contact'
 
