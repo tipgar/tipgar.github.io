@@ -11,6 +11,8 @@ Looking for help in your testing, coding or wanna share your ideas ? Tip Garlic 
 
 * Some code snippets which I've tried.
 * Some automation testing tutorials.
-* [Customized based on So Simple Theme](https://mademistakes.com/)
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
+
+## Credits:
+* Based on [So Simple Theme](https://mademistakes.com/)
+* Using [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
