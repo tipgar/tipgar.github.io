@@ -151,9 +151,9 @@ social:
 
 pages_list:
   #About: 'about'
-  Blog: 'post-list'
   #Timeline: 'timeline'
   Contact: 'contact'
+  Blog: 'post-list'
 
 # Exclusion list from the generated _site
 
