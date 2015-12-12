@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Tip Garlic
+---title: About the Tip Garlic
 excerpt: "Random text"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
