@@ -12,7 +12,7 @@ Looking for help in your testing, coding or wanna share your ideas ? Tip Garlic 
 * Some code snippets which I've tried.
 * Some automation testing tutorials.
 
-## Credits:
-* Based on [So Simple Theme](https://mademistakes.com/)
+## Contacts:
+* Email: vanphamvn@gmail.com
 * Using [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
