@@ -22,7 +22,8 @@ When you want to search for text which maybe in some fields of your Elastic inde
 }
 {% endhighlight %}
 
-OR
+Wildcards can also be used on your field name, such as <strong>*_name</strong> in below snippet:
+
 {% highlight ruby %}
 {
   "multi_match" : {
