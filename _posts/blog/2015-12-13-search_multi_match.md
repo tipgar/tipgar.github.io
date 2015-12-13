@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "How to search on multi fields in Elastic"
+title: "Search on multi fields in Elastic"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [Elastic,search]
 author: van_pham
 image:
   feature:
 date: 2015-12-12T15:39:55-04:00
 ---
+
+When you want to search for text which maybe in some fields of your Elastic index, you can use following syntax, with value of <strong>query</strong> is the text you wanna search for, and <strong>fields</strong> is an array of string for multiple fields that you wanna search on.
+
 {% highlight ruby %}
 {
   "multi_match" : {
