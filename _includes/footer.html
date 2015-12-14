@@ -6,7 +6,9 @@
 -->
 <!--
 <h2>Comments</h2>-->
+{% if page.comments="" %}
 <div class="fb-comments" data-href="{{ %site.url% }}{{ %page.url% }}" data-num-posts="4" data-width="800"></div>
+{% endif %}
 <!--
 <h2>Comments 2</h2>
 <div class="fb-comments" data-href="{{ %site.url% }}{{ https://tipgar.github.io/blog/search_multi_match/ }}" data-num-posts="4" data-width="800"></div>
