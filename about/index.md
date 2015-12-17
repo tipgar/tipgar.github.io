@@ -15,10 +15,6 @@ Looking for help in your testing, coding or wanna share your ideas ? Search Tip 
 
 ## What I've been doing:
 
-* Testing by day, coding by night.
-
-## Some @_@ updates:
-
 * Testing
 	+ Medicine Note - Release 1 on [Google Play](https://www.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dreamdigitizers.medicinenote&h=4AQGxoRFT)
 	+ Insurance websites.
