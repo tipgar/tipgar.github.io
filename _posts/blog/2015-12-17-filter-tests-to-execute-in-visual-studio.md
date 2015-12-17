@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Filter tests to execute in Visual Studio"
+excerpt: "Examples and code for displaying images in posts."
+categories: blog
+tags: [CodedUI, Test]
+comments: true
+share: true
+---
+There are some options in Test Explorer, that can be used to execute your automation tests in Visual Studio, consider which option fits your needs:
+
+https://lh3.googleusercontent.com/VgXPHI6oGeG9fycYn1Snf8GW03ln0ArZrOagkgxIwszt1c63eEHPJ9ECAkDiu5Wvj0_u8Fu-x9EDIewRdmiKtYfDilIS-I5-sYYmpOMzz8wT06eT_z6FDIgRiAkbkpcNOTmelIabjEFPFAW43oPtSVpe8K1VmZc0QNwVjS34HHaPWd8WJEo-9s6DQmJp7AlJz40mHAQ9_9TcZEjKnLX-XKoAJj5Pql3SJ8ztguuKIH9fQHcIqVCOmg0eqntvVPrxotUiB5alON58dE3Ew5YiuV-DmStVGqDR-Ipuffg4oP82A5BnMJeyYDDbKVYIXDvHJDEAZFhJssO8emKK0_9-Ke82-tlNq872UOjPRZwn4kzJNrIA02hBk8rNbNx8cWam5k9VL7j1ut24vPLHWu2NL838XzjM8PKZ91xC23R6qy1dKfQMKq8htP5nwUJulQIFTqh_8aPNKCWkj5rHNfBfFuizvc6HT4anW_d9413JoqkBqtSiKE0nS4zboMt2P0lR5zZ4C027z5NdogyGxYoTlbhtbF25x0NnMS1gKDSZMut0ld3bQiYU5oay_80tH06hXJw=w754-h514-no
+
+1.	Create test playlist: Select tests those you want to run together and add them to a playlist.
+
+ <figure>
+	<a href="https://lh3.googleusercontent.com/VgXPHI6oGeG9fycYn1Snf8GW03ln0ArZrOagkgxIwszt1c63eEHPJ9ECAkDiu5Wvj0_u8Fu-x9EDIewRdmiKtYfDilIS-I5-sYYmpOMzz8wT06eT_z6FDIgRiAkbkpcNOTmelIabjEFPFAW43oPtSVpe8K1VmZc0QNwVjS34HHaPWd8WJEo-9s6DQmJp7AlJz40mHAQ9_9TcZEjKnLX-XKoAJj5Pql3SJ8ztguuKIH9fQHcIqVCOmg0eqntvVPrxotUiB5alON58dE3Ew5YiuV-DmStVGqDR-Ipuffg4oP82A5BnMJeyYDDbKVYIXDvHJDEAZFhJssO8emKK0_9-Ke82-tlNq872UOjPRZwn4kzJNrIA02hBk8rNbNx8cWam5k9VL7j1ut24vPLHWu2NL838XzjM8PKZ91xC23R6qy1dKfQMKq8htP5nwUJulQIFTqh_8aPNKCWkj5rHNfBfFuizvc6HT4anW_d9413JoqkBqtSiKE0nS4zboMt2P0lR5zZ4C027z5NdogyGxYoTlbhtbF25x0NnMS1gKDSZMut0ld3bQiYU5oay_80tH06hXJw=w754-h514-no"><img src="https://lh3.googleusercontent.com/VgXPHI6oGeG9fycYn1Snf8GW03ln0ArZrOagkgxIwszt1c63eEHPJ9ECAkDiu5Wvj0_u8Fu-x9EDIewRdmiKtYfDilIS-I5-sYYmpOMzz8wT06eT_z6FDIgRiAkbkpcNOTmelIabjEFPFAW43oPtSVpe8K1VmZc0QNwVjS34HHaPWd8WJEo-9s6DQmJp7AlJz40mHAQ9_9TcZEjKnLX-XKoAJj5Pql3SJ8ztguuKIH9fQHcIqVCOmg0eqntvVPrxotUiB5alON58dE3Ew5YiuV-DmStVGqDR-Ipuffg4oP82A5BnMJeyYDDbKVYIXDvHJDEAZFhJssO8emKK0_9-Ke82-tlNq872UOjPRZwn4kzJNrIA02hBk8rNbNx8cWam5k9VL7j1ut24vPLHWu2NL838XzjM8PKZ91xC23R6qy1dKfQMKq8htP5nwUJulQIFTqh_8aPNKCWkj5rHNfBfFuizvc6HT4anW_d9413JoqkBqtSiKE0nS4zboMt2P0lR5zZ4C027z5NdogyGxYoTlbhtbF25x0NnMS1gKDSZMut0ld3bQiYU5oay_80tH06hXJw=w754-h514-no" alt="image"></a>
+	<figcaption><a href="https://lh3.googleusercontent.com/VgXPHI6oGeG9fycYn1Snf8GW03ln0ArZrOagkgxIwszt1c63eEHPJ9ECAkDiu5Wvj0_u8Fu-x9EDIewRdmiKtYfDilIS-I5-sYYmpOMzz8wT06eT_z6FDIgRiAkbkpcNOTmelIabjEFPFAW43oPtSVpe8K1VmZc0QNwVjS34HHaPWd8WJEo-9s6DQmJp7AlJz40mHAQ9_9TcZEjKnLX-XKoAJj5Pql3SJ8ztguuKIH9fQHcIqVCOmg0eqntvVPrxotUiB5alON58dE3Ew5YiuV-DmStVGqDR-Ipuffg4oP82A5BnMJeyYDDbKVYIXDvHJDEAZFhJssO8emKK0_9-Ke82-tlNq872UOjPRZwn4kzJNrIA02hBk8rNbNx8cWam5k9VL7j1ut24vPLHWu2NL838XzjM8PKZ91xC23R6qy1dKfQMKq8htP5nwUJulQIFTqh_8aPNKCWkj5rHNfBfFuizvc6HT4anW_d9413JoqkBqtSiKE0nS4zboMt2P0lR5zZ4C027z5NdogyGxYoTlbhtbF25x0NnMS1gKDSZMut0ld3bQiYU5oay_80tH06hXJw=w754-h514-no" title="Create test playlist">Create test playlist</a>.</figcaption>
+</figure>
+
+Then just select the test playlist which you want execute:
+
+ 
+
+
+
+2.	Exclude tests by filters: 
+
+If you want to run all the tests, except those tests in the Navigation test class.
+
+ 
+
+Or you can combine with other filters. In below example, those tests have been executed in Navigation test class will be excluded in your test run.
+
+ 
