@@ -3,7 +3,7 @@ layout: post
 title: "Search on multi fields in Elastic"
 modified:
 categories: blog
-excerpt:
+excerpt: How to use multi_match
 tags: [Elastic,search]
 author: van_pham
 comments: yes

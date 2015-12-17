@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Filter tests to execute in Visual Studio"
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "Options to run or ignore different test cases."
 categories: blog
 tags: [CodedUI, Test]
 comments: true
