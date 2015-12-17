@@ -13,11 +13,10 @@ Looking for help in your testing, coding or wanna share your ideas ? Search Tip 
 * Some code snippets which I've tried.
 * Some automation testing tutorials.
 
-## About site's author:
+## What I've been doing:
 
 * Testing by day, coding by night.
-* Call me garlicman/mr.i.
 
-Have fun :)
+## Currently testing on:
 
-
+* Medicine Note [Google Play](https://www.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dreamdigitizers.medicinenote&h=4AQGxoRFT)
