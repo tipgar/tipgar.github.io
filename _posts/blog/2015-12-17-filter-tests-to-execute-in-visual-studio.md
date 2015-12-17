@@ -37,7 +37,9 @@ If you want to run all the tests, except those tests in the Navigation test clas
 	<figcaption>Exclude test class.</figcaption>
 </figure>
 
-Or you can combine with other filters. In below example, only tests those are, in Navigation class and have not been executed yet, included in your test run. You can see that test case VerifyInformationInStatic, which is already executed, is not in the list to be run.
+###Option 3 - Or you can combine different filters. 
+
+In below example, only tests those are, in Navigation class and have not been executed yet, included in your test run. You can see that test case VerifyInformationInStatic, which is already executed, is not in the list to be run.
 
  <figure>
 	<img src="https://lh3.googleusercontent.com/IOiBQb8Yh29jS0vynuxH0Dvf2Q3PfimwLzo27f-7PdJ_0WkDwQPKnicym_9CI7sMyTELjphDHbD9xgDZO2jmdFgP9tRt55SmvzEf9pRx5r0_qbT8FOxmPGENRKGloTIjXlE-YLI0SR2AqOoLtInKZ6AL56ugaGb-lg_aitC-PSLrBE4NS5mhvsV0-meLD2BUh04VFxnYypvCc9XbEfYFnFVyy5VwiMnX-iqRcgzAYQYy7ISO8GJgulsZ4bZs9t5LNtX1aMCdf_qrtAu935vUByePMGWlp4euZAvEQ4k4EukiML-NQl585xDyiAJSxYBOy_2mZ2wojbKwk5swEMuIFHuH3VNIEVxuxKryUGztjvzJWKMbB5s--nx8tV-gHnodEPoJce2OJQJsPG8eb_y6Tm4eGXuxqcm-tgVehSBzpqA-_biV0jRkneiaIgvo4q9Z8XTTYbVMWH0AeDEqO1OzyuHytoCph997Mr9iJMuX2LqcXrxe1izdepvpzFFB9TQRV90CL_CS7--SxXI7htyH41AqSfAMLVYJST7GbYGK9bJK4Twnd4GX6HlY9xgoW2b5nok=w383-h584-no" alt="image">
