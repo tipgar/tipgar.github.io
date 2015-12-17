@@ -26,4 +26,4 @@ Looking for help in your testing, coding or wanna share your ideas ? Search Tip 
 	+ Tip Garlic.
 	+ Tip Garlic CMS.
 
-If you'd like to know more about me, reach to [vanphamvn@gmail.com](mailto:vanphamvn@gmail.com)
+If you'd like to know more about me, reach to [vanphamvn@gmail.com](mailto:vanphamvn@gmail.com).
