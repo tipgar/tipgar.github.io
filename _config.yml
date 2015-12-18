@@ -51,6 +51,6 @@ owner:
     plus: #username
     analytics:
     verify:
-    ad-client:ca-pub-8675346136560597
-    ad-slot:1741619662
+    ad-client:
+    ad-slot:
   bing-verify:
